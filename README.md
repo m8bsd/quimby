@@ -32,7 +32,7 @@ The purpose of this repository is to offer a straightforward solution for adding
 Contributions to this repository are welcome! Feel free to make suggestions, report bugs, or add new features by creating pull requests.
 
 ## License
-This project is licensed under the [GNU General Public License](LICENSE), version 3 or later. This license allows you to use, modify, and distribute the code under the terms of the GNU GPL.
+This project is licensed under MIT
 
 ---
 
